@@ -1,0 +1,55 @@
+2019-08-12 09:48:22 | DEBUG | base_logging | conditional_write | Set the name to: knight
+2019-08-12 09:48:23 | INFO | base_logging | log_result | PASS: Name was successfully set to: knight
+
+2019-08-12 09:48:23 | INFO | base_logging | test_example_form | Script duration: 12 seconds
+
+2019-08-12 09:48:23 | DEBUG | base_logging | conditional_write | Set the email to: knight@qxf2.com
+2019-08-12 09:48:23 | INFO | base_logging | log_result | PASS: Email was successfully set to: knight@qxf2.com
+
+2019-08-12 09:48:23 | INFO | base_logging | test_example_form | Script duration: 12 seconds
+
+2019-08-12 09:48:23 | DEBUG | base_logging | conditional_write | Set the phone to: 1111111111
+2019-08-12 09:48:24 | INFO | base_logging | log_result | PASS: Phone number was successfully set for phone: 1111111111
+
+2019-08-12 09:48:24 | INFO | base_logging | test_example_form | Script duration: 13 seconds
+
+2019-08-12 09:48:31 | DEBUG | base_logging | conditional_write | Set the gender to: Male
+2019-08-12 09:48:31 | INFO | base_logging | log_result | PASS: Gender was successfully set to: Male
+
+2019-08-12 09:48:31 | INFO | base_logging | test_example_form | Script duration: 20 seconds
+
+2019-08-12 09:48:31 | DEBUG | base_logging | check_copyright | Copyright text: Qxf2 Services 2013 - 2015
+2019-08-12 09:48:31 | INFO | base_logging | log_result | PASS: Copyright check was successful
+
+2019-08-12 09:48:31 | INFO | base_logging | test_example_form | Script duration: 20 seconds
+
+2019-08-12 09:48:32 | DEBUG | base_logging | conditional_write | Set the name to: knight
+2019-08-12 09:48:32 | DEBUG | base_logging | conditional_write | Set the email to: knight@qxf2.com
+2019-08-12 09:48:33 | DEBUG | base_logging | conditional_write | Set the phone to: 1111111111
+2019-08-12 09:48:40 | DEBUG | base_logging | conditional_write | Set the gender to: Male
+2019-08-12 09:48:44 | DEBUG | base_logging | conditional_write | Accepted the terms and conditions
+2019-08-12 09:48:48 | DEBUG | base_logging | conditional_write | Clicked on the "click me" button
+2019-08-12 09:48:51 | INFO | base_logging | log_result | PASS: Successfully submitted the form
+
+2019-08-12 09:48:51 | DEBUG | base_logging | conditional_write | Correct heading present on redirect page
+2019-08-12 09:48:51 | INFO | base_logging | log_result | PASS: Heading on the redirect page checks out!
+
+2019-08-12 09:48:51 | INFO | base_logging | test_example_form | Script duration: 40 seconds
+
+2019-08-12 09:48:58 | INFO | base_logging | log_result | PASS: Successfully visited the Contact page
+
+2019-08-12 09:48:58 | INFO | base_logging | test_example_form | Script duration: 47 seconds
+
+2019-08-12 09:48:58 | INFO | base_logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=8
+2019-08-12 09:48:58 | INFO | base_logging | write_test_summary | Total number of checks passed=8
+----------------------
+************************
+
+
+2019-08-12 09:48:58 | INFO | base_logging | write_test_summary | Total number of mini-checks=11
+2019-08-12 09:48:58 | INFO | base_logging | write_test_summary | Total number of mini-checks passed=11
+2019-08-12 09:48:58 | INFO | base_logging | write_test_summary | ************************
